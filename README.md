@@ -10,4 +10,11 @@ Neste repositório você consegue baixar os arquivos incluindo o arquivo .pbix c
 
 No curso foram utilizados 8 arquivos, 1 para cada trimestre dos anos de 2021 e 2022, que foram importados pela opção de pasta pelo PowerBI e depois carregados juntos.
 
-Mas pra economizar tempo, agrupei os arquivos usando Python e Pandas, o arquivo unificado está [nesse link]( "Link")
+Para economizar tempo, agrupei os arquivos usando Python e Pandas, o arquivo unificado está [nesse link](https://github.com/carloshaar/dashboard_comercial_datab/raw/master/arquivo_unico.rar "Link")
+
+Esse foi o Dashboard trabalhado em aula, com o fundo que pode ser encontrado no link com todos os arquivos, tanto o png quando o Power Point.
+![image](https://user-images.githubusercontent.com/89817807/221351569-a0d1d84a-3ed9-4ff3-b46c-a3ed6b2835e6.png)
+
+Esse Dashboard eu montei após algumas alterações feitas no Power Point fornecido.
+![image](https://user-images.githubusercontent.com/89817807/221351549-4a5af2cc-a767-4cd6-8863-2a06854db937.png)
+
