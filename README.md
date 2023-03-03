@@ -1,8 +1,8 @@
 [![author](https://img.shields.io/badge/author-carloshaar-silver.svg)](https://www.linkedin.com/in/carloshaar) 
-[![](https://img.shields.io/badge/PowerBI-gold.svg)](https://powerbi.microsoft.com/pt-br/) 
+[![](https://img.shields.io/badge/MS-PowerBI-gold.svg)](https://powerbi.microsoft.com/pt-br/) 
 [![](https://img.shields.io/badge/Python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
-[![](https://img.shields.io/badge/Excel-darkgreen.svg)](https://www.microsoft.com/pt-br/microsoft-365/excel)
-[![](https://img.shields.io/badge/Colaboratory+-orange.svg)](https://colab.research.google.com) 
+[![](https://img.shields.io/badge/MS-Excel-darkgreen.svg)](https://www.microsoft.com/pt-br/microsoft-365/excel)
+[![](https://img.shields.io/badge/Google-Colab-orange.svg)](https://colab.research.google.com) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carloshaar/)
 
