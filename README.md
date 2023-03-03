@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-carloshaar-darkgreen.svg)](https://www.linkedin.com/in/carloshaar) [![](https://img.shields.io/badge/PowerBI-blue.svg)](https://powerbi.microsoft.com/pt-br/) [![](https://img.shields.io/badge/Excel-orange.svg)](https://www.microsoft.com/pt-br/microsoft-365/excel) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carloshaar/)
+[![author](https://img.shields.io/badge/author-carloshaar-darkgreen.svg)](https://www.linkedin.com/in/carloshaar) [![](https://img.shields.io/badge/PowerBI-blue.svg)](https://powerbi.microsoft.com/pt-br/) [![](https://img.shields.io/badge/Excel-orange.svg)](https://www.microsoft.com/pt-br/microsoft-365/excel) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carloshaar/)[![](https://img.shields.io/badge/python-3.7+-darkblue.svg)](https://www.python.org/downloads/release/python-365/)
 
 ## **Dashboard Comercial - Jornada PowerBI DataB**
 
@@ -10,7 +10,9 @@ Neste repositório você consegue baixar os arquivos incluindo o arquivo .pbix c
 
 No curso foram utilizados 8 arquivos, 1 para cada trimestre dos anos de 2021 e 2022, que foram importados pela opção de pasta pelo PowerBI e depois carregados juntos.
 
-Para economizar tempo, agrupei os arquivos usando Python e Pandas, o arquivo unificado está [nesse link](https://github.com/carloshaar/dashboard_comercial_datab/raw/master/arquivo_unico.rar "Link")
+Se preferir pode usar o arquivo que agrupei usando Python e Pandas, através das funções *pd.concat* e *df.to_excel*.
+![image](https://user-images.githubusercontent.com/89817807/222692431-80fad565-dcd2-4e84-bbe3-ab171e1a3c50.png)
+O arquivo unificado está [nesse link](https://github.com/carloshaar/dashboard_comercial_datab/raw/master/arquivo_unico.rar "Link")
 
 Esse foi o Dashboard trabalhado em aula, com o fundo disponibilizado e que pode ser encontrado no link com todos os arquivos, tanto o png quando o Power Point.
 
