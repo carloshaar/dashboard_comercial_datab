@@ -28,3 +28,13 @@ Esse é o mesmo Dashboard, porém fiz algumas alterações das cores no Power Po
 
 ![image](https://user-images.githubusercontent.com/89817807/221351549-4a5af2cc-a767-4cd6-8863-2a06854db937.png)
 
+## Outros Projetos Meus:
+# Python
+https://github.com/carloshaar/inside_airbnb_lisbon
+
+https://github.com/carloshaar/nps_openai
+
+# PowerBI
+https://github.com/carloshaar/bootcamp_santander_dio_pbi1
+
+https://github.com/carloshaar/dashboard_logistica_datab
